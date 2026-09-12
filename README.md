@@ -1,6 +1,6 @@
 # portfolio
 
-![1](/Moon%20Joon%20Ho's%20Resume/1.jpg)
+
 ![2](/Moon%20Joon%20Ho's%20Resume/2.jpg)
 ![3](/Moon%20Joon%20Ho's%20Resume/3.jpg)
 ![4](/Moon%20Joon%20Ho's%20Resume/4.jpg)
